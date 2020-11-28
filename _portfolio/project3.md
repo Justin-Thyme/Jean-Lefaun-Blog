@@ -1,5 +1,4 @@
 ---
-caption:
   title: Lines
   subtitle: Branding
   thumbnail: assets/img/portfolio/noah.jpg
