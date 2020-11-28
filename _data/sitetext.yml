@@ -5,18 +5,18 @@ header:
 
 timeline:
     title: "About"
-    text: Jean lefaun is a performer see more about him below.
+    text: I'm a burlesque performer living in the north side of Chicago. I'm an avid board gamer, constant reader, and inept but enthusiastic racquetball player. If you're looking for a resume, congrats! You found it. It's right here. 
     section: timeline
-
-portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
 
 about:
     title: "Jean LeFaun Pt 2"
     text: more text about jean lefaun
     section: about
+
+portfolio:
+    title: "Portfolio"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portfolio
 
 contact:
     title: "Contact Me"
