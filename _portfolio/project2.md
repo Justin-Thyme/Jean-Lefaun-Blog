@@ -1,13 +1,9 @@
 ---
-title: Project Name
+title: updated 2
 subtitle: Lorem ipsum dolor sit amet consectetur.
-![running hero](/BNHA.jpg)
+image: assets/img/portfolio/noah.jpg
+alt:
 
-
-caption:
-  title: Explore
-  subtitle: Graphic Design
-  ![running hero](/BNHA.jpg)
 ---
 Again again this to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
