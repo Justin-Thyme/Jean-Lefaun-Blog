@@ -1,7 +1,8 @@
 ---
 title: updated 2
 subtitle: Lorem ipsum dolor sit amet consectetur.
-![RuPaulogies](/Users/justinshannin/Downloads/Trying-out-another-one-master/assets/img/portfolio/Sissy That Titan Walk.png)
+image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/05-full.jpg
+alt:
 
 caption:
   title: Lines
