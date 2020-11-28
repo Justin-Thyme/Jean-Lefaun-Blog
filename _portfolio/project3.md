@@ -1,13 +1,13 @@
 ---
 title: Project Name
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
-alt:
+image: /Users/justinshannin/Downloads/Trying-out-another-one-master/assets/img/portfolio/Sissy That Titan Walk.png
+alt: RuPaul
 
 caption:
   title: Updated
   subtitle: Identity
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: /Users/justinshannin/Downloads/Trying-out-another-one-master/assets/img/portfolio/Sissy That Titan Walk.png
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
