@@ -3,15 +3,15 @@ header:
     text: It's Nice To Meet You
     button: Tell Me More
 
+timeline:
+    title: "About"
+    text: Jean lefaun is a performer see more about him below.
+    section: timeline
+
 portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
-
-timeline:
-    title: "About"
-    text: Jean lefaun is a performer see more about him below. 
-    section: timeline
 
 about:
     title: "About Us"
