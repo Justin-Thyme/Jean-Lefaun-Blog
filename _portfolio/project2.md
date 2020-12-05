@@ -1,5 +1,5 @@
 ---
-title: Anime Music Videos (AMV)
+title: Anime Music Videos (AMV) 
 subtitle: Pictured above: Sissy That [Titan] Walk
 image: assets/img/portfolio/AMV.jpg
 alt:

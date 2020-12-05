@@ -1,5 +1,5 @@
 ---
-  title: Lines
+  title: Lines 
   subtitle: Branding
   thumbnail: assets/img/portfolio/writing.jpg
 
