@@ -4,7 +4,7 @@ header:
 
 timeline:
     title: "About"
-    text: "I'm a burlesque performer living in the north side of Chicago. I'm an avid board gamer, constant reader, and inept but enthusiastic racquetball player. If you're looking for a resume, congrats! You found it. <a href=google.com>test</a> It's right here. If your looking for something more visual, check out my portfolio below."
+    text: "I am a burlesque performer living in the north side of Chicago. I'm an avid board gamer, constant reader, and inept but enthusiastic racquetball player. If you're looking for a resume, congrats! You found it. <a href=assets/jshannin_resume.pdf>It's right here</a>. If your looking for something more visual, check out my portfolio below."
     section: timeline
 
 about:
