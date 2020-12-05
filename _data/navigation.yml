@@ -1,10 +1,10 @@
 nav:
 
-  - title: "Portfolio"
-    section: portfolio
-
   - title: "About"
     section: timeline
+
+  - title: "Portfolio"
+    section: portfolio
 
   - title: "Team"
     section: team
