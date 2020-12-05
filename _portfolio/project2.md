@@ -1,15 +1,13 @@
 ---
-title: Anime Music Videos AMV
-subtitle: Pictured above: Sissy That Titan Walk
-image: assets/img/portfolio/AMV.jpg
+title: Burleseque
+image: assets/img/portfolio/Burlesque.jpg
 alt:
 
 caption:
-  title: AMV
-  subtitle: Anime Music Video Projects
-  thumbnail: assets/img/portfolio/AMV.jpg
+  title: Burlesque
+  thumbnail: assets/img/portfolio/Burlesque.jpg
 ---
-Click below to access my various AMVs (Anime Music Videos). Some examples: Death Note x Wicked, My Hero Academia x RuPaul, Elfen Lied x Liza Minnelli
+Continuing to edit so I can see changes. **Markdown** supported. adding in my own words. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 {:.list-inline}
 - Date: January 2017
