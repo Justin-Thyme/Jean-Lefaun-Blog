@@ -17,9 +17,9 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
-title      : Agency Jekyll Theme Demo
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "I am redesribing this blog"
+title      : Jean LeFaun's Website
+email      : jeanlefaun@gmail.com #this is also the email contact forms will go to
+description: "The website of the burlesque performer Jean LeFaun"
 author     : Justin Shannin
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
