@@ -1,7 +1,7 @@
 ---
-  title: Lines 
+  title: Lines
   subtitle: Branding
-  thumbnail: assets/img/portfolio/writing.jpg
+  thumbnail: assets/img/portfolio/Writing.jpg
 
   {:.list-inline}
 - Date: January 2017
