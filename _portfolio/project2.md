@@ -6,7 +6,7 @@ alt:
 
 caption:
   title: AMV
-  subtitle: Anime Music Videos
+  subtitle: Anime Music Video Projects
   thumbnail: assets/img/portfolio/AMV.jpg
 ---
 Click below to access my various AMVs (Anime Music Videos). Some examples: Death Note x Wicked, My Hero Academia x RuPaul, Elfen Lied x Liza Minnelli
