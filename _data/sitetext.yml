@@ -14,12 +14,12 @@ about:
 
 portfolio:
     title: "Portfolio"
-    text: "These are my portfolio samples.
-    section: portfolio
+    text: "These are my portfolio samples."
+    section:  portfolio
 
 contact:
     title: "Contact Me"
-    text: "Email: jeanlefaun@gmail.com
+    text: "Email: jeanlefaun@gmail.com"
     Phone: 336-543-8175"
     section: contact
 
