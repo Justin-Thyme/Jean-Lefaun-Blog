@@ -1,17 +1,12 @@
 ---
-title: updated 2
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/noah.jpg
+title: Anime Music Videos (AMV)
+subtitle: Pictured above: Sissy That [Titan] Walk
+image: assets/img/portfolio/AMV.png
 alt:
 
 caption:
-  title: Lines
+  title: AMV
   subtitle: Branding
-  thumbnail: assets/img/portfolio/noah.jpg
+  thumbnail: assets/img/portfolio/AMV.png
 ---
-Again again this to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+Click below to access my various AMVs (Anime Music Videos). Some examples: Death Note x Wicked, My Hero Academia x RuPaul, Elfen Lied x Liza Minnelli

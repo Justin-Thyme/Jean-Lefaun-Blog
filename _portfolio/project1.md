@@ -1,13 +1,12 @@
 ---
-title: updated 2
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/noah.jpg
+title: Burleseque
+image: assets/img/portfolio/burlesque.jpg
 alt:
 
 caption:
   title: Lines
   subtitle: Branding
-  thumbnail: assets/img/portfolio/noah.jpg
+  thumbnail: assets/img/portfolio/burlesque.jpg
 ---
 Continuing to edit so I can see changes. **Markdown** supported. adding in my own words. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
