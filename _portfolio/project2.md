@@ -7,7 +7,11 @@ caption:
   title: AMV
   thumbnail: assets/img/portfolio/AMV.jpg
 ---
-Continuing to edit so I can see changes. **Markdown** supported. adding in my own words. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+In my spare time, I enjoy creating AMVs, also known as anime music videos, where I set footage from anime shows to music. Some examples
+Death Note set to Wicked - https://youtu.be/znFvXteROus
+Attack on Titan x RuPaul - https://youtu.be/ymaqzHauEV0
+Elfen Lied x Liza Minnelli - https://youtu.be/PtvhcLApV9Y
+
 
 {:.list-inline}
 - Date: January 2017
