@@ -17,6 +17,3 @@ In my spare time, I enjoy creating AMVs, also known as anime music videos, where
 
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
