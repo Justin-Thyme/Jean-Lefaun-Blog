@@ -5,7 +5,7 @@ alt:
 
 caption:
   title: Corporate Writing
-  thumbnail: assets/img/portfolio/Writing.jpg
+  thumbnail: [assets/img/portfolio/Writing.jpg](https://www.yahoo.com)
 ---
 Check out some examples of my corporate blog writing
 
