@@ -8,6 +8,7 @@ caption:
   thumbnail: assets/img/portfolio/Writing.jpg
 ---
 Check out some examples of my corporate blog writing
+url: https://www.chipublib.org/blogs/post/broadway-bound-spotlight-on-teen-plays/
 
 {:.list-inline}
 - Date: January 2017
