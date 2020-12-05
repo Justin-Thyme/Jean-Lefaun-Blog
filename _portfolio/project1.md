@@ -1,5 +1,5 @@
 ---
-title: Burleseque
+title: Burlesque
 image: assets/img/portfolio/Burlesque.jpg
 alt:
 
