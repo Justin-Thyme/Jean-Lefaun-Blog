@@ -1,7 +1,6 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Hello from Jean LeFaun!
+    text: Welcome to my website.
 
 timeline:
     title: "About"
@@ -19,7 +18,7 @@ about:
 
 portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "These are my portfolio samples. 
     section: portfolio
 
 contact:
