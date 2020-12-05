@@ -1,9 +1,3 @@
----
-title: updated 2
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/noah.jpg
-alt:
-
 caption:
   title: Lines
   subtitle: Branding
