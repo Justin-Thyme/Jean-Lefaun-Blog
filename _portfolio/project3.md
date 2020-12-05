@@ -5,7 +5,7 @@ alt:
 
 caption:
   title: Corporate Writing
-  thumbnail: [assets/img/portfolio/Writing.jpg](https://www.yahoo.com)
+  thumbnail: assets/img/portfolio/Writing.jpg
 ---
 Check out some examples of my corporate blog writing
 
@@ -18,6 +18,3 @@ Check out some examples of my corporate blog writing
 [Bobby's Bike Hike Pizza Recommendation](https://www.bobbysbikehike.com/blog/best-pizza-in-chicago/)
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
