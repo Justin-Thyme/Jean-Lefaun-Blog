@@ -17,7 +17,7 @@ remote_theme: Justin-Thyme/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
-title      : Jean LeFaun's Website
+title      : Jean LeFaun
 email      : jeanlefaun@gmail.com #this is also the email contact forms will go to
 description: "The website of the burlesque performer Jean LeFaun"
 author     : Justin Shannin
