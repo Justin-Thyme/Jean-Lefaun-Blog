@@ -1,5 +1,6 @@
 header:
-    text: Welcome to my website!
+    title: Hello!
+    text: Welcome to my website
 
 timeline:
     title: "About"
