@@ -5,7 +5,7 @@ alt:
 
 caption:
   title: Burlesque
-  thumbnail: assets/img/portfolio/Burlesque.jpg
+  thumbnail: assets/img/portfolio/ticket.jpg
 ---
 Like my namesake, fauns cavort and carouse, rejecting the polished perfection of Adonis in favor of the raw and natural.
 
