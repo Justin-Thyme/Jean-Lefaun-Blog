@@ -1,10 +1,10 @@
 header:
     title: Hello from Jean LeFaun!
-    text: Welcome to my website.
+    text: Welcome to my website
 
 timeline:
     title: "About"
-    text: "I'm a burlesque performer living in the north side of Chicago. I'm an avid board gamer, constant reader, and inept but enthusiastic racquetball player. If you're looking for a resume, congrats! You found it. <a href=assets/jshannin_resume.pdf>It's right here</a>. If your looking for something more visual, check out my portfolio below."
+    text: "I'm a burlesque performer living in the north side of Chicago. I'm an avid board gamer, constant reader, and inept but enthusiastic racquetball player. Yeah, Jean LeFaun's not my real name, but it's much more fun than my birth name! Blame it on Fantasia or blame it on Mr. Tumnus, but I've always identified with satyrs. Those Dionysian emissaries of fun, laughs, good times, and pan flutes live life on their own terms. If you're looking for a resume, congrats! You found it. <a href=assets/jshannin_resume.pdf>It's right here</a>. If you're looking for something more visual, check out my portfolio below."
     section: timeline
 
 about:
@@ -13,7 +13,7 @@ about:
     section: about
 
 portfolio:
-    title: "Portfolio2"
+    title: "Portfolio"
     text: "These are some samples of my work"
     section:  portfolio
 
