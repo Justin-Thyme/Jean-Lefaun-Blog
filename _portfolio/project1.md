@@ -1,6 +1,6 @@
 ---
 title: Burlesque
-image: assets/img/portfolio/Burlesque.jpg
+image: assets/img/portfolio/compilation.jpg
 alt:
 
 caption:

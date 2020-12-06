@@ -1,6 +1,6 @@
 ---
 title: AMV
-image: assets/img/portfolio/AMV.jpg
+image: assets/img/portfolio/anime.jpg
 alt:
 
 caption:
