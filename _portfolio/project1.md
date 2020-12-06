@@ -13,10 +13,10 @@ My burlesque style is similar. I might not dazzle you with rhinestones or titill
 
 [O Sole Mio - Touring Italy on a Budget](https://youtu.be/Jb4-MbxmylQ)
 
-[Papa Can You Hear Me? - A Darth Vader Tribute](https://youtu.be/dfM9LHcrRw0)
-
 [Hello Dolly - A Fisting Parody](https://youtu.be/eLPjmXF5sB8)
 
 [שב - Some Hebrew Breakup Sadlesque](https://youtu.be/bRSF6OgrwFI)
+
+[Papa Can You Hear Me? - A Darth Vader Tribute](https://youtu.be/dfM9LHcrRw0)
 
 {:.list-inline}
